@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #7D889E;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+    margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d5e1ef;
+  width: 100dvw;
+  height: 100dvh;
+
+}
+.card-group {
+  width: 320px;
+  height: 500px;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card-image {
+  height: auto;
+  width: 100%;
+  border-radius: 8px;
+}
+.card-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    text-wrap: balance;
+}
+.card-text-header{
+    /* margin-bottom: 1.2rem; */
+    color: #1F314F;
+}
+.footnote{
+    text-align: center;
+    padding: 1em;
+    font-weight: 400;
+}
