@@ -25,6 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - GitHub URL: [Github](https://github.com/Marvie-03/ScanQr-FrontendMentor)
 - Live Site URL: [Netlify](https://scanqrfem.netlify.app/)
+- Frontend Mentor: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-with-html-and-css-Dxw1kQnIG0)
 
 ## My process
 
